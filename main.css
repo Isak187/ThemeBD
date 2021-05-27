@@ -26,7 +26,7 @@
   --avatar-roundness: 50%;
   --background-shading: 100%;
   --background-overlay: #2424242d;
-  --background-image: url(https://github.com/Isak187/ThemeBD/blob/main/88882.png);
+  --background-image: url(https://raw.githubusercontent.com/Isak187/ThemeBD/main/88882.png);
   --background-position: center;
   --background-size: cover;
   --background-repeat: no-repeat;
@@ -75,7 +75,7 @@
   --user-modal-grayscale: var(--background-grayscale);
   --user-modal-sepia: var(--background-sepia);
   --user-modal-blur: calc(var(--background-blur) + 3px);
-  --home-icon: url(https://github.com/Isak187/ThemeBD/blob/main/gif2.gif);
+  --home-icon: url(https://raw.githubusercontent.com/Isak187/ThemeBD/main/transparent-gif-22.gif);
   --home-position: center;
   --home-size: 50px;
 }
